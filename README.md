@@ -4,7 +4,7 @@ A list of semi to fully remote-friendly companies in or around tech.
 
 ## [Worldwide](./regions/worldwide.md)
 ## [Aisa](./regions/Asia.md)
-## [Austrlia
+## [Australia](./regions/Australia.md)
 ## [Europe](./regions/Europe)
 ## [Americas](./regions/Americas)
 
