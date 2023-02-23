@@ -9,7 +9,7 @@ A list of semi to fully remote-friendly companies in or around tech.
 ## [Americas](./regions/Americas)
 
 
-## Companies
+## All Companies
 
 Name | Website | Region
 ------------ | ------- | -------
